@@ -1,3 +1,8 @@
+---
+layout: page
+title: "The Value of a Weapon in Valorant"
+permalink: /
+---
 <h1>The Value of a Weapon in Valorant (WIP)</h1>
 
 <h2> This website will host the Jupyter notebook writeup for the final tutorial. The tutorial will be added by 12/20/2021 at 4:00 pm by the latest. </h2>
