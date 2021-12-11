@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "The Value of a Weapon in Valorant"
 ---
 <html><h1>The Value of a Weapon in Valorant (WIP)</h1>
 
