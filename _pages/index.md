@@ -15476,7 +15476,7 @@ The Model predicted to pick: Ares
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>This prediction is impossible, as the Judge costs 1850 credits. There is no way for a player to buy this weapon with only 800 credits. At the current time, I do not know of a way to force the model to consider the costs of a weapon when predicting, and is a point of future work.</p>
+<p>This prediction is impossible, as the Ares costs 1550 credits. There is no way for a player to buy this weapon with only 800 credits. At the current time, I do not know of a way to force the model to consider the costs of a weapon when predicting, and is a point of future work.</p>
 
 </div>
 </div>
